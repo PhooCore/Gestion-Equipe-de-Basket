@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page d'Authentification</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Conteneur principal pour la page d'authentification -->
+    <div class="container">
+        <!-- Section de bienvenue -->
+        <div class="welcome-section">
+            <h1>Bienvenue</h1>
+        </div>
+        
+        <!-- Section de formulaire d'authentification -->
+        <div class="auth-section">
+            <div class="logo">
+                <h2>Connexion</h2>
+            </div>
+            
+            <!-- Formulaire d'authentification -->
+            <form class="auth-form">
+                <!-- Champ pour l'adresse email -->
+                <div class="form-group">
+                    <label for="email">Adresse email</label>
+                    <input type="email" id="email" placeholder="votre@email.com" required>
+                </div>
+                
+                <!-- Champ pour le mot de passe -->
+                <div class="form-group">
+                    <label for="password">Mot de passe</label>
+                    <input type="password" id="password" placeholder="Votre mot de passe" required>
+                </div>
+                
+                <!-- Options supplémentaires -->
+                <div class="form-options">
+                    <!-- Case à cocher "Se souvenir de moi" -->
+                    <label class="checkbox">
+                        <input type="checkbox">
+                        <span class="checkmark"></span>
+                        Se souvenir de moi
+                    </label>
+                    <!-- Lien pour récupération de mot de passe -->
+                    <a href="#" class="forgot-password">Mot de passe oublié ?</a>
+                </div>
+                
+                <!-- Bouton de soumission du formulaire -->
+                <button type="submit" class="login-btn">Se connecter</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

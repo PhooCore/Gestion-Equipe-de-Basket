@@ -1,0 +1,40 @@
+
+
+# Fichier de connexion à la base de données
+config/Database.php
+
+# Variables d'environnement
+.env
+.env.local
+.env.*
+
+# Dumps de base de données
+*.sql
+*.sqlite
+*.db
+
+!database/schema.sql
+!database/seed.sql
+
+uploads/*
+!uploads/.gitkeep
+
+
+cache/
+logs/
+*.log
+
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+
+.DS_Store
+Thumbs.db
+
+
+# Fichiers temporaires
+tmp/
+temp/
