@@ -195,7 +195,7 @@ Mesures mises en place :
 
 ## Auteur
 
-* **NGUYEN Tuyet Phuong** | [GitHub-PhooCore](https://github.com/PhooCore)
+* **NGUYEN Phuong** | [GitHub-PhooCore](https://github.com/PhooCore)
 * **GABARRE CLAVERIA Santiago**
 
 Projet réalisé dans le cadre de la 2e année de BUT Informatique.
