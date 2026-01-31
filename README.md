@@ -33,6 +33,8 @@ L'application a pour objectif de faciliter la gestion quotidienne d'une équipe 
 
 L'interface se veut **claire, intuitive et fonctionnelle**, afin de permettre un suivi efficace de l'évolution de l'équipe tout au long de la saison.
 
+Vous pouvez retrouver au dessus le MCD qui nous permis de faire notre base de données.
+
 ---
 
 ## Démo en ligne
